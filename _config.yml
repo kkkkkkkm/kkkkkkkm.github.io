@@ -15,7 +15,7 @@ title                    : "Kangmin Kim"
 title_separator          : "-"
 name                     : &name "Kangmin Kim"
 description              : &description "MS student at Chosun University"
-url                      : https://kkkkkkkm.github.io # https://FIVEYOUNGWOO.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kkkkkkkm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kkkkkkkm/kkkkkkkm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -91,7 +91,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # https://scholar.google.co.kr/citations?user=1sIHm5AAAAAJ&hl=ko #"http://yourfullgooglescholarurl.com"
-  email            : # "snlyoungwoo@gmail.com"
+  email            : "could714@gmail.com"
   researchgate     : # "https://www.researchgate.net/profile/Youngwoo-Oh" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
