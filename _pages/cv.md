@@ -11,21 +11,25 @@ redirect_from:
 
 교육
 ---
-* 학사, 조선대학교 컴퓨터공학과 (2022.02)
+* **학사, 조선대학교 컴퓨터공학과 (2022.02)**
+  * GPA: 4.05/ 4.5
+  *
 * 석사, 조선대학교 컴퓨터공학과 (2024.02 예정)
 <!-- * Ph.D in Computer Science and Engineering, Rice university (expected) -->
 
-<!-- Master thesis
+Master thesis
 ---
-* Title : *null*
-* Supervisors : *null*
-* Abstract : *null* -->
+* Title :  기계 번역 구조를 활용한 문장형 수학 문제풀이에 관한 연구
+* Supervisors : 전 찬 준
+<!-- * Abstract : *null*-->
+
 
 
 연구 분야
 ---
-* Korean Nature Language
 * Deep learning
+* Nature Language Processing
+* Diffusion Model
 
 <!-- * Massive MIMO
 * Deep learning
@@ -38,6 +42,7 @@ redirect_from:
 ---
 * **연구 관련**
   * NONE
+
   <!-- * 산학연 연구개발 및 국제 프로젝트 참여 연구원 (2022.03 - 2022.08)
   * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2021.04 - 2021.11)
   * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2020.04 - 2020.11)
@@ -46,6 +51,7 @@ redirect_from:
 
 * **개발 관련 및 기타 이력**
   * NONE
+
   <!-- * AR/VR 의료 임상 프로그램을 위한 다중 접속 무선 기술 개발, HT CORE (2022.10 - 2022.12)
   * RF430FRL15xH NFC 기반 Medical-ICT 융합 모바일 애플리케이션 설계 및 개발, KAIST (2022.08 - 2022.10)
   * 조선대-NHN 아카데미 백엔드 과정 수업 조교 (2022.08 - 2023.02)
@@ -64,13 +70,13 @@ redirect_from:
 ---
 * **프로그래밍 능력**
   * 한국어 자연어 처리를 위한 데이터 생성기 모델 구축 및 자연어 학습
-  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, Tensorflow, Pytorch)
-  * 딥러닝 기반의 문제 접근 및 해결 능력
+  * 딥러닝 기반의 문제 접근 및 해결 능력과 언어 활용 (Python, Pytorch)
+
 
 
 * **협업 및 의사소통 능력**
   * 조선대 치과대학 및 다수 기관과의 협업 프로젝트 참여 및 관리
-  * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행, 다수의 수상 이력
+  * 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행
 
 
 * **발표 및 시각화 능력**
